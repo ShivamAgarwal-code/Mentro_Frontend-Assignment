@@ -1,0 +1,66 @@
+.container {
+  position: absolute;
+  overflow: hidden;
+  height: 2584px;
+  left: 657px;
+  top: -1535px;
+  width: 2546px;
+  border-radius: 50%;
+}
+.path {
+  width: 1644px;
+  height: 1644px;
+  background-size: 100% 100%;
+  margin-top: 1400px;
+  margin-left: 450px;
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\path.svg");
+  border: none;
+}
+
+.path2 {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\path2.svg");
+}
+
+.userImg {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  transform-origin: 50% 0%;
+}
+
+.userImg:nth-of-type(2) {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\Sourav.svg");
+  background-size: 100% 100%;
+  position: absolute;
+  bottom: 19%;
+  left: 63%;
+}
+.userImg:nth-of-type(3) {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\Saumya.svg");
+  background-size: 100% 100%;
+  position: absolute;
+  bottom: 3%;
+  left: 75%;
+}
+.userImg:nth-of-type(4) {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\Keshav.svg");
+  background-size: 100% 100%;
+  position: absolute;
+  bottom: 3%;
+  left: 16%;
+}
+.userImg:nth-of-type(5) {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\Ankita.svg");
+  background-size: 100% 100%;
+  position: absolute;
+  bottom: 19%;
+  left: 25%;
+}
+
+.userImg:nth-of-type(6) {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\Prankur.svg");
+  background-size: 100% 100%;
+  position: absolute;
+  bottom: 25%;
+  left: 45%;
+}

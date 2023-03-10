@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f81bb0f.css",
+    "main.js": "/static/js/main.0d129302.js",
+    "static/media/Ankita.svg": "/static/media/Ankita.15d565e040a04fc40e30.svg",
+    "static/media/Sourav.svg": "/static/media/Sourav.d6f3fd5cde939e1d7c4b.svg",
+    "static/media/Saumya.svg": "/static/media/Saumya.2e7e6bb790904d76c304.svg",
+    "static/media/Prankur.svg": "/static/media/Prankur.6231297c5f771a92b47c.svg",
+    "static/media/Keshav.svg": "/static/media/Keshav.0bdbd152b4f78de694a1.svg",
+    "index.html": "/index.html",
+    "static/media/full_star.svg": "/static/media/full_star.65d08ffecb03c91361b2.svg",
+    "static/media/darkStar.svg": "/static/media/darkStar.9b256fe39a9120280756.svg",
+    "static/media/path.svg": "/static/media/path.70779cc30053e75c91d6.svg",
+    "static/media/path2.svg": "/static/media/path2.b6a64ec05190565cdb52.svg",
+    "main.1f81bb0f.css.map": "/static/css/main.1f81bb0f.css.map",
+    "main.0d129302.js.map": "/static/js/main.0d129302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f81bb0f.css",
+    "static/js/main.0d129302.js"
+  ]
+}

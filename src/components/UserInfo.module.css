@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+.container {
+  position: absolute;
+  width: 826px;
+  height: 869px;
+  left: 142px;
+  top: 409px;
+  transition: all 2s ease;
+}
+
+.rating {
+  font-weight: 700;
+  font-size: 100px;
+  letter-spacing: 0.015em;
+  color: #4caf50;
+  margin: 0;
+  margin-bottom: 24px;
+  margin-left: 25px;
+}
+
+.userName {
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 120px;
+  letter-spacing: 0.015em;
+  color: #000000;
+  margin: 0;
+  margin-left: 25px;
+}
+
+.job {
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 82px;
+  letter-spacing: 0.015em;
+  color: #000000;
+  margin: 0;
+  margin-left: 25px;
+}
+
+.description {
+  width: 780px;
+  height: 280px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: justify;
+  letter-spacing: 0.015em;
+  color: #000000;
+  margin: 0;
+  margin-top: 13%;
+  margin-left: 25px;
+}
+
+.fiveStar {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\full_star.svg");
+  background-repeat: space;
+  height: 59px;
+  width: 317px;
+}
+
+.fourHalf {
+  overflow: hidden;
+  width: 290px;
+}
+
+.starcontainer {
+  height: 59px;
+  margin-bottom: 40px;
+  margin-left: 25px;
+}
+
+.bookButton {
+  position: absolute;
+  left: 166px;
+  top: 1392px;
+  width: 535px;
+  height: 122px;
+  background-color: #4caf50;
+  border: none;
+  filter: drop-shadow(25px 15px 150px #4caf50);
+  font-weight: 600;
+  font-size: 45px;
+  color: #ffffff;
+}
+
+.button2 {
+  background-color: #609b6c;
+}
+.rating2 {
+  color: #609b6c;
+}
+.fiveStar2 {
+  background-image: url("C:\Users\mriga\Frontend stuff\React\Mentro-Assignment\src\images\darkStar.svg");
+  background-repeat: space;
+  height: 59px;
+  width: 299px;
+}
