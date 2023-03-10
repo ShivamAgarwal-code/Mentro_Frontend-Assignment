@@ -3,7 +3,7 @@
 ## Preview Dimensions used during development - 2896 × 1683 px
 
 ## Deployed Link
-https://mrc-mentro-assigment.netlify.app/
+https://mentro-web-assignment.netlify.app/
 
 ## Screenshots
 
